@@ -1,0 +1,18 @@
+Vertrieb wurde angelegt
+Anträge wurden angelegt
+Bilanz wurde angelegt
+Kapitalanlagen wurden angelegt
+Das Risiko in der Kapitalanlage in den Renten wurde festgelegt: high_risky
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'high_risky', 'jahr': '2020', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2020', 'anzahl_renten': 5, 'anzahl_bu': 20, 'laufzeit_renten': 3, 'laufzeit_bu': 12}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'high_risky', 'jahr': '2020', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2020', 'anzahl_renten': 5, 'anzahl_bu': 20, 'laufzeit_renten': 3, 'laufzeit_bu': 12}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'high_risky', 'jahr': '2021', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2021', 'anzahl_renten': 20, 'anzahl_bu': 5, 'laufzeit_renten': 14, 'laufzeit_bu': 20}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'high_risky', 'jahr': '2021', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2021', 'anzahl_renten': 20, 'anzahl_bu': 5, 'laufzeit_renten': 14, 'laufzeit_bu': 20}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'high_risky', 'jahr': '2022', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2022', 'anzahl_renten': 0, 'anzahl_bu': 0, 'laufzeit_renten': 14, 'laufzeit_bu': 20}
+Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'high_risky', 'jahr': '2022', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2022', 'anzahl_renten': 0, 'anzahl_bu': 0, 'laufzeit_renten': 14, 'laufzeit_bu': 20}
+ENDE erreicht!!!

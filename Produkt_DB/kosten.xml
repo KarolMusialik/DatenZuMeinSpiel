@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kosten id="001">
+	<Alpha>
+		<alpha10>0.025</alpha10>
+		<alpha20>0.05</alpha20>
+	</Alpha>
+	<Betta>
+		<betta10>0.05</betta10>
+		<betta20>0.03</betta0>
+	</Betta>
+</Konsten>
+<Kosten id="002">
+	<Alpha>
+		<alpha10>0.04</alpha10>
+		<alpha20>0.02</alpha20>
+	</Alpha>
+	<Betta>
+		<betta10>0.02</betta10>
+		<betta20>0.07</betta0>
+	</Betta>
+</Konsten>
+

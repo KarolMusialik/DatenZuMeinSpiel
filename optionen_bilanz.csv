@@ -1,0 +1,5 @@
+key;wert
+file_bilanz_start;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/bilanz_start.csv
+file_bilanz;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/bilanz.csv
+file_protokoll;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/protokoll_bilanz.txt
+file_optionen;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/optionen_bilanz.csv

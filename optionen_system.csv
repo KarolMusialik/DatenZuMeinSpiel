@@ -1,0 +1,9 @@
+key;wert
+file_protokoll;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/protokoll_system.txt
+file_system_bestand;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/system_bestand.csv
+file_system_bilanz;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/system_bilanz.csv
+file_system_fortschreibung;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/system_fortschreibung.csv
+file_statistik;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/statistik.csv
+file_protokoll_statistik;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/protokoll_statistik.txt
+file_optionen_pm;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/optionen_pm.csv
+file_optionen;/home/karol/MeineDaten_250GB/Projekte/meinSpiel/optionen_system.csv

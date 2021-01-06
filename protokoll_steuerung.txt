@@ -1,0 +1,4 @@
+Bilanz wurde angelegt
+Vertrieb wurde angelegt
+Anträge wurden angelegt
+ENDE erreicht!!!

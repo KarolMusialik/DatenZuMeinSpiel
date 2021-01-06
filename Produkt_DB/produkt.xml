@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produktliste>
+	<produkt id="100">
+		<name>Aufgeschobene Rentenversicherung</name>
+		<von>20200101</von>
+		<bis>99999999</bis>
+		<produktteil_hv id="1100202001"> name="Rente"</produktteil_hv>
+		<produktteil_zv_1 id="2100202001"> name="BUZ"</produktteil_zv_1>
+	</produkt>
+	<produkt id="200">
+		<name>Selbständige Berufsunfähigkeitsversicherung</name>
+		<von>20200101</von>
+		<bis>99999999</bis>
+		<produktteil_hv id="4100202001"> name="SBU"</produktteil_hv>
+	</produkt>
+</produktliste>
+

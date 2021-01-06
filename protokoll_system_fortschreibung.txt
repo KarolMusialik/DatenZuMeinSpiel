@@ -1,0 +1,3 @@
+Fortschreibung/FortschreibungVonBis: Es wurden keine Vertraege fortgeschrieben: von=20220101 bis=20221231
+Fortschreibung/FortschreibungVonBis: Es wurden 4 Vertraege fortgeschrieben: von=20220101 bis=20221231
+System/Fortschreibung/RegulaereAblaeufe: Es wurden keine Vertraege zum Aböauf gefunden: von=20220101 bis=20221231

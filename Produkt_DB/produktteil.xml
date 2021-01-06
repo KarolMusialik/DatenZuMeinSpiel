@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produktteilliste>
+	<produktteil id="1100202001">
+		<name>Rente</name>
+		<von>20200101</von>
+		<bis>99999999</bis>
+		<produktbaustein_stamm id="1100202001S"> name="Rentenbaustein_Stamm"</produktbaustein_stamm>
+		<produktbaustein_dynamik id="1100202001D"> name="Rentenbaustein_Dynamik"</produktbaustein_dynamik>
+		<produktbaustein_erhoehung id="1100202001E"> name="Rentenbaustein_Erhoehung"</produktbaustein_erhoehung>
+	</produktteil>
+	<produktteil id="2100202001">
+		<name>BUZ</name>
+		<von>20200101</von>
+		<bis>99999999</bis>
+		<produktbaustein_stamm id="2100202001S"> name="BUZ_Baustein_Stamm"</produktbaustein_stamm>
+		<produktbaustein_dynamik id="2100202001D"> name="BUZ_Baustein"</produktbaustein_dynamik>
+		<produktbaustein_erhoehung id="2100202001E"> name="BUZ_Baustein_Erhoehung"</produktbaustein_erhoehung>
+	</produktteil>
+	<produktteil id="4100202001">
+		<name>SBU</name>
+		<von>20200101</von>
+		<bis>99999999</bis>
+		<produktbaustein_stamm id="4100202001S"> name="SBU_Baustein_Stamm"</produktbaustein_stamm>
+		<produktbaustein_dynamik id="4100202001D"> name="SBU_Baustein"</produktbaustein_dynamik>
+		<produktbaustein_erhoehung id="4100202001E"> name="SBU_Baustein_Erhoehung"</produktbaustein_erhoehung>
+	</produktteil>
+</produktliste>
+

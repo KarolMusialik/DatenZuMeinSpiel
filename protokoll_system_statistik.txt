@@ -1,0 +1,1 @@
+System/StatistikAnfangsbestand: in der Statistik /home/karol/Meine_projekte/Daten_zu_MeinSpiel/system_statistik.csv zum Termin: 20191231 wurden keine Daten gefunden. Das muss aber kein Fefler sein. Vielleicht gibt es keine Vorjahresdaten.
