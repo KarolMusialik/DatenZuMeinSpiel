@@ -1,9 +1,10 @@
 jahr;topf;name;wert
 2020;999;kasse_anfang;100000.0
 2020;999;umbuchung_von_kasse_zu_ka_zugang;100000.0
-2022;renten;anfang;81744.59324142225
-2022;aktien;anfang;9082.732582380251
-2022;renten;ende;91245.69879119235
-2022;renten;zins;418.37296738985117
-2022;renten;zugang;0.0
-2022;renten;ablauf;0.0
+2020;renten;anfang;0
+2020;renten;anfang;70000.0
+2020;aktien;anfang;30000.0
+2020;renten;ende;70195.14241982278
+2020;renten;zins;195.1424198227735
+2020;renten;zugang;70000.0
+2020;renten;ablauf;0.0

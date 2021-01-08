@@ -1,36 +1,20 @@
-Vertrieb/__Init__: File für die Angaben zum Neugeschäft festgelegt: /home/karol/Meine_projekte/Daten_zu_MeinSpiel/vertrieb.csv
-Vertrieb/LegeFileVertrieb /home/karol/Meine_projekte/Daten_zu_MeinSpiel/vertrieb.csv existiert bereits. Daher muss sie zuerst entfernt werden.
-Vertrieb/LegeTabelleVertriebAn: Tabelle fuer Vertrieb/Neugeschäft wurde angelegt: /home/karol/Meine_projekte/Daten_zu_MeinSpiel/vertrieb.csv
-Vertrieb/LeseNummer: Kein Eintrag in der Datei gefunden: /home/karol/Meine_projekte/Daten_zu_MeinSpiel/vertrieb.csv
+Vertrieb/__Init__: File für die Angaben zum Neugeschäft festgelegt: /home/karol/Meine_projekte/MeinSpiel/Datei/vertrieb.csv
+Vertrieb/LegeFileVertrieb /home/karol/Meine_projekte/MeinSpiel/Datei/vertrieb.csv existiert bereits. Daher muss sie zuerst entfernt werden.
+Vertrieb/LegeTabelleVertriebAn: Tabelle fuer Vertrieb/Neugeschäft wurde angelegt: /home/karol/Meine_projekte/MeinSpiel/Datei/vertrieb.csv
+Vertrieb/LeseNummer: Kein Eintrag in der Datei gefunden: /home/karol/Meine_projekte/MeinSpiel/Datei/vertrieb.csv
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'tkz', 'wert': '20200101767'}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'sra', 'wert': 'N'}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'beginn', 'wert': '20200701'}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'anzahl', 'wert': 5}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'lauftzeit', 'wert': 3}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'ende', 'wert': '20230631'}
+Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'lauftzeit', 'wert': 2}
+Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'ende', 'wert': '20220631'}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'vertriebsnummer', 'wert': '007'}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 1, 'jahr': 2020, 'tkz': '20200101767', 'name': 'zw', 'wert': 12}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'tkz', 'wert': '20200101709'}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'sra', 'wert': 'N'}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'beginn', 'wert': '20200701'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'anzahl', 'wert': 20}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'lauftzeit', 'wert': 12}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'ende', 'wert': '20320631'}
+Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'anzahl', 'wert': 34}
+Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'lauftzeit', 'wert': 28}
+Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'ende', 'wert': '20480631'}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'vertriebsnummer', 'wert': '007'}
 Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 2, 'jahr': 2020, 'tkz': '20200101709', 'name': 'zw', 'wert': 12}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 3, 'jahr': 2021, 'tkz': '20200101767', 'name': 'tkz', 'wert': '20200101767'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 3, 'jahr': 2021, 'tkz': '20200101767', 'name': 'sra', 'wert': 'N'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 3, 'jahr': 2021, 'tkz': '20200101767', 'name': 'beginn', 'wert': '20210701'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 3, 'jahr': 2021, 'tkz': '20200101767', 'name': 'anzahl', 'wert': 20}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 3, 'jahr': 2021, 'tkz': '20200101767', 'name': 'lauftzeit', 'wert': 14}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 3, 'jahr': 2021, 'tkz': '20200101767', 'name': 'ende', 'wert': '20350631'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 3, 'jahr': 2021, 'tkz': '20200101767', 'name': 'vertriebsnummer', 'wert': '007'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 3, 'jahr': 2021, 'tkz': '20200101767', 'name': 'zw', 'wert': 12}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 4, 'jahr': 2021, 'tkz': '20200101709', 'name': 'tkz', 'wert': '20200101709'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 4, 'jahr': 2021, 'tkz': '20200101709', 'name': 'sra', 'wert': 'N'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 4, 'jahr': 2021, 'tkz': '20200101709', 'name': 'beginn', 'wert': '20210701'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 4, 'jahr': 2021, 'tkz': '20200101709', 'name': 'anzahl', 'wert': 5}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 4, 'jahr': 2021, 'tkz': '20200101709', 'name': 'lauftzeit', 'wert': 20}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 4, 'jahr': 2021, 'tkz': '20200101709', 'name': 'ende', 'wert': '20410631'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 4, 'jahr': 2021, 'tkz': '20200101709', 'name': 'vertriebsnummer', 'wert': '007'}
-Vertrieb/LeseAusCSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendet. Key: {'nr': 4, 'jahr': 2021, 'tkz': '20200101709', 'name': 'zw', 'wert': 12}

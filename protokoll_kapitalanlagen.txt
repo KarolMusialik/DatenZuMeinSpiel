@@ -1,6 +1,6 @@
-Kapitalanlegen: Tabelle fuer die Kapitalanlagen wurde angelegt: /home/karol/Meine_projekte/Daten_zu_MeinSpiel/kapitalanlagen.csv
-Kapitalanlegen: Tabelle fuer die Aktien wurde angelegt: /home/karol/Meine_projekte/Daten_zu_MeinSpiel/ka_aktien.csv
-Kapitalanlegen: Tabelle fuer die SA wurde angelegt: /home/karol/Meine_projekte/Daten_zu_MeinSpiel/ka_sa.csv
+Kapitalanlegen: Tabelle fuer die Kapitalanlagen wurde angelegt: /home/karol/Meine_projekte/MeinSpiel/Datei/kapitalanlagen.csv
+Kapitalanlegen: Tabelle fuer die Aktien wurde angelegt: /home/karol/Meine_projekte/MeinSpiel/Datei/ka_aktien.csv
+Kapitalanlegen: Tabelle fuer die SA wurde angelegt: /home/karol/Meine_projekte/MeinSpiel/Datei/ka_sa.csv
 kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
 kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
 kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
@@ -9,34 +9,6 @@ kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es 
 kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
 kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
 kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
-kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
-kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
-kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-Kapitalanlage: Eintrag in der Bilanztabelle geloescht: jahr=2021 topf=renten name=anfang
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
-kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
-kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
-kapitalanlagen/LeseSACSV: kein Eintrag in der Tabelle gefunden. Es wurde null verwendetNone
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
-Kapitalanlage: Eintrag in der Bilanztabelle geloescht: jahr=2022 topf=renten name=anfang
 kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
 kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None
 kapitalanlagen/LeseKapitalanlagenCSV: Eintrag in der Tabelle nicht gefunden. Es wurde null verwendet: termin=None

@@ -1,5 +1,5 @@
-ka_renten/LegeRentenTabelleAn: Tabelle fuer die Renten wurde angelegt: /home/karol/Meine_projekte/Daten_zu_MeinSpiel/ka_renten.csv
-ka_renten_sa: Tabelle fuer die Renten_SA wurde angelegt: /home/karol/Meine_projekte/Daten_zu_MeinSpiel/ka_sa_renten.csv
+ka_renten/LegeRentenTabelleAn: Tabelle fuer die Renten wurde angelegt: /home/karol/Meine_projekte/MeinSpiel/Datei/ka_renten.csv
+ka_renten_sa: Tabelle fuer die Renten_SA wurde angelegt: /home/karol/Meine_projekte/MeinSpiel/Datei/ka_sa_renten.csv
 ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=999 von=20200101 bis=20201231 name=anzahl
 ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=999 von=20200101 bis=20201231 name=risiko
 ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=1 von=20200101 bis=20201231 name=aufteilung
@@ -45,85 +45,6 @@ ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunde
 ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
 ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
 ka_renten/ZeileLoeschenInRentenCSV: Eintrag in der Tabelle fuer Renten geloescht: nr=999 von=20200101 bis=20201231 name=zugang
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=999 von=20210101 bis=20211231 name=anzahl
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=999 von=20210101 bis=20211231 name=risiko
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=1 von=20210101 bis=20211231 name=aufteilung
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=2 von=20210101 bis=20211231 name=aufteilung
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=3 von=20210101 bis=20211231 name=aufteilung
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=1 von=20210101 bis=20211231 name=laufzeit
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=2 von=20210101 bis=20211231 name=laufzeit
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=3 von=20210101 bis=20211231 name=laufzeit
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=999 von=20220101 bis=20221231 name=anzahl
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=999 von=20220101 bis=20221231 name=risiko
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=1 von=20220101 bis=20221231 name=aufteilung
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=2 von=20220101 bis=20221231 name=aufteilung
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=3 von=20220101 bis=20221231 name=aufteilung
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=1 von=20220101 bis=20221231 name=laufzeit
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=2 von=20220101 bis=20221231 name=laufzeit
-ka_renten/LeseRentenSaCSV: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: nr=3 von=20220101 bis=20221231 name=laufzeit
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
-ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
 ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
 ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None
 ka_renten/WertAusRentenTabelle: Eintrag in der Tabelle fuer Renten nicht gefunden. Es wurde null verwendet: termin=None

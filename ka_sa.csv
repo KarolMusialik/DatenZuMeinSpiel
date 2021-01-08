@@ -1,13 +1,5 @@
 jahr;name;wert
-2020;renten;{'risiko': 'high_risky', 'jahr': '2020', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
-2020;anteil_aktien;0.1
-2020;anteil_renten;0.9
+2020;renten;{'risiko': 'normal', 'jahr': '2020', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
+2020;anteil_aktien;0.3
+2020;anteil_renten;0.7
 2020;vola_aktien;0.1
-2021;renten;{'risiko': 'high_risky', 'jahr': '2021', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
-2021;anteil_aktien;0.1
-2021;anteil_renten;0.9
-2021;vola_aktien;0.1
-2022;renten;{'risiko': 'high_risky', 'jahr': '2022', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
-2022;anteil_aktien;0.1
-2022;anteil_renten;0.9
-2022;vola_aktien;0.1
