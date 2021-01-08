@@ -4,7 +4,7 @@ Bilanz wurde angelegt
 Kapitalanlagen wurden angelegt
 Das Risiko in der Kapitalanlage in den Renten wurde festgelegt: normal
 Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2020', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
-Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2020', 'anzahl_renten': 5, 'anzahl_bu': 34, 'laufzeit_renten': 2, 'laufzeit_bu': 28}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2020', 'anzahl_renten': 4, 'anzahl_bu': 3, 'laufzeit_renten': 4, 'laufzeit_bu': 6}
 Aus dem Dialog zu Kapitalanlagen wurden für Renten ausgelesen:{'risiko': 'normal', 'jahr': '2020', 'laufzeit': [5, 10, 20], 'anzahl': 3, 'aufteilung': [0.5, 0.3, 0.2]}
-Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2020', 'anzahl_renten': 5, 'anzahl_bu': 34, 'laufzeit_renten': 2, 'laufzeit_bu': 28}
+Aus dem Dialog zum Vertrieb wurden für folgende Eingaben ausgelesen:{'jahr': '2020', 'anzahl_renten': 4, 'anzahl_bu': 3, 'laufzeit_renten': 4, 'laufzeit_bu': 6}
 ENDE erreicht!!!
